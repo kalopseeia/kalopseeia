@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="mailto:pines.joemarie@gmail.com">
     <img alt="Gmail"     src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
   <a href="https://instagram.com/kalopseeia">
-    <img alt="Instagram" src="https://img.shields.io/badge/kalopseeia-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
   <a href="https://twitter.com/kalopseeia">
     <img alt="Twitter"   src="https://img.shields.io/badge/Twitter-1DA1F2?style=flag&logo=twitter&logoColor=white"></a> &nbsp;
 <br>
