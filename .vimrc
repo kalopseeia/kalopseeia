@@ -99,7 +99,7 @@ else
 endif
 
 Plug 'roxma/nvim-yarp'
-Plug 'roxma/vim-hug-neovim-rpc'
+" Plug 'roxma/vim-hug-neovim-rpc'
 " Python autocompletion
 Plug 'deoplete-plugins/deoplete-jedi'
 " Completion from other opened files
@@ -389,11 +389,15 @@ nmap ,c :Commands<CR>
 " Deoplete -----------------------------
 " Error start -----------------------------
 " Use deoplete.
-let g:deoplete#enable_at_startup = 1
-call deoplete#custom#option({
-\   'ignore_case': v:true,
-\   'smart_case': v:true,
-\})
+
+" Plug 'roxma/vim-hug-neovim-rpc'
+"let g:deoplete#enable_at_startup = 1
+"call deoplete#custom#option({
+"\   'ignore_case': v:true,
+"\   'smart_case': v:true,
+"\})
+
+
 " Error start -----------------------------
 " complete with words from any opened file
 let g:context_filetype#same_filetypes = {}
