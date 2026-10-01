@@ -1,6 +1,6 @@
 # ✨ Welcome ✨!
 
-#### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> , I'm Joemarie Pines.
+#### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> , I'm Joemarie.
 
 #### 🚀 About Me
 <p>🌱🔭 I'm currently working on something but not in the industry , Still learning self taught 😄. </p>
