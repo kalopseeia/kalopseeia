@@ -6,7 +6,7 @@
 <p>🌱🔭 I'm currently working on something but not in the industry , Still learning self taught 😄. </p>
 
 - 👯 I’m looking to collaborate on any fun projects!
-- ✉️ You can reach me at my mail: pines.joemarie@gmail.com or at www.linkedin.com/in/joemariepines
+<!-- - ✉️ You can reach me at my mail: yuichan1920@gmail.com -->
 - 📺🎥 Fun fact: I love movies and tv shows. Like Mr.Robot & You Tv series.
 
 
